@@ -44,6 +44,3 @@ This project is a **Data Engineering pipeline** that extracts real-time Twitter 
 - Monitor & log **workflow status**  
 
 ---
-
-## 📂 **Project Directory Structure**  
-
